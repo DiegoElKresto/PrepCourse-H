@@ -1,2 +1,1 @@
-# PrepCourse-H
-Repositorio del PrepCourse de Henry
+Este es un ejemplo de como clonar un repositorio desde GitHub a nuestra computadora
